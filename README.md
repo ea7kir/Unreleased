@@ -1,9 +1,19 @@
 # Unreleased Projects
+Pending their public release, screengrabs can be seen in /images
 
-Some of the projects which are not ready for public release.
+## Q-100-Receiver, Q-100-Transmitter & Q-100-Server
+- Gen 3: QO-100 ground station
+- Raspberry Pi : Go/Gio
+- In active development
 
 ## RxTouch, TxTouch & TxServer
-A trio of Raspberry Pi Python applications, to control a QO-100 ground station. Working and maintained. Pending better install instructions.
+- Gen 2: QO-100 ground station
+- Raspberry Pi : Python/PySimpleGUI
+- Pending better install instructions
+- Soon to be archived
 
 ## SatController, SatReceiver & SatServer
-A trio of Apple Mac Swift applications to control a QO-100 ground station. Working, but not maintained.
+- Gen 1: QO-100 ground station
+- Apple iMac : Swift/SwiftUI
+- Pending better install instructions
+- Archived
